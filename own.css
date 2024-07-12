@@ -1,0 +1,321 @@
+nav{
+    border-top: 6px solid #2777c6;
+}
+
+.ikk{
+    /* font-size: 20px; */
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+.tyt{
+    background: #005ea6;
+    border: 1px solid #005ea6;
+}
+.tt{
+    color:white;
+}
+.c2{
+    background-image: url('banner.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.c2 h1{
+    font-size: 3.5rem;
+}
+
+.kkk{
+    background: #005ea6;
+    border: 1px solid #005ea6;
+    padding: 16px 32px;
+}
+
+.qqww{
+    margin: 102px 0px;
+}
+
+
+.dd{
+    /* border-bottom:2px solid rgb(39, 119, 198); */
+    border-bottom: 3px solid #2777c6;
+    width:160px;
+    margin-left:12px;
+}
+
+.search-group{
+    background: white;
+    width:460px;
+    /* height:64px; */
+    height: 100%;
+    padding:0px;
+    border-radius:6px;
+}
+
+::placeholder{
+    font-size:19px;
+}
+.pl{
+    font-size: 21px;
+}
+
+.in{
+    border:none;
+    outline:none;
+    width:280px;
+    height:50px;
+}
+
+.bn{
+    background: none;
+    border:none;
+}
+
+.ff{
+    background: rgb(247, 247, 247);
+}
+.po{
+    font-size: 26px;
+}
+
+ .bor{
+    border:1px solid red;
+} 
+
+.lin{
+    border:1px solid rgb(39, 119, 198);
+    width:50px;
+    margin:0 auto;
+}
+.mn{
+    background: rgb(0, 94, 166);
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border:rgb(0, 94, 166);
+}
+.as{
+    border-radius:4px;
+    box-shadow: 0 0 4px 4px rgba(20,102,143,.08);
+}
+
+.vc{
+    background: rgb(43, 49, 71);
+}
+
+
+.linn{
+    border:1px solid #fff;
+    width:50px;
+    margin:0 auto;
+}
+
+.zx{
+    background: rgb(0, 94, 166);
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border:rgb(0, 94, 166);
+}
+
+.vcc{
+    background: rgb(43, 49, 71);
+}
+
+.pi{
+    margin-top:65px;
+}
+.rad{
+    border-radius:100%;
+    width:88px;
+    height:88px;
+    box-shadow: 0 0 4px 4px rgba(20,102,143,.08);
+    border: 1px solid #eee;
+}
+
+.vccc{
+    background-color: #f7f7f7;
+}
+
+.nbv{
+    margin-top:36px;
+}
+
+.lkj{
+    margin-top:1px;
+}
+
+.mm{
+    background: rgb(0, 94, 166);
+    border: rgb(0, 94, 166);
+    margin-bottom:65px;
+}
+
+
+.vertical-line{
+    border:2px solid #2777c6;
+    height:50px;
+}
+
+.mmm{
+    background: rgb(0, 94, 166);
+    border: 1px solid rgb(0, 94, 166);
+    padding-right:32px;
+    padding-left:32px;
+    margin-bottom:88px;
+}
+
+.linee{
+    border-bottom:2px solid rgb(39, 119, 198);
+    width:60px;
+    margin:0 auto;
+}
+
+.carousel-control-prev{
+    width:5%;
+}
+
+.carousel-control-next{
+    width:5%;
+}
+
+.hhh{
+    color:#787878;
+}
+
+.fff{
+    border-radius: 50%;
+    width:64px;
+    height:64px;
+}
+
+.carousel-control-prev-icon{
+    width:46px;
+    height:46px;
+}
+
+.carousel-control-next-icon{
+    width:46px;
+    height:46px;
+}
+
+.vvc{
+    background-color: #f7f7f7;
+}
+
+.xc{
+    box-shadow: 0 0 4px 4px rgba(20,102,143,.08);
+    border: 1px solid #eee;
+}
+.bn{
+    border: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+.yy{
+    background: rgb(0, 94, 166);
+    border: 1px solid rgb(0, 94, 166);
+}
+
+
+.jh{
+    background-color: #2b3247;
+}
+
+.ol{
+    background: rgb(0, 94, 166);
+    border: 1px solid rgb(0, 94, 166);
+}
+
+
+.klk p:hover{
+    color:#2777c6;
+    text-decoration: underline;
+}
+
+.klk p{
+    color:#707070;
+}
+
+.pop{
+    background: #2b3247;
+}
+
+.fgf{
+    border-top:1px solid rgba(255, 255, 255, .2);
+    margin-top:70px;
+    color: rgba(255, 255, 255, .6);
+}
+
+.iiu{
+    background: #2b3247;
+}
+
+
+.accordion-button:not(.collapsed){
+    color:white;
+    background: #2b3247;
+    box-shadow: none;
+}
+
+.accordion-button:focus{
+    border:none;
+    box-shadow: none;
+}
+
+.za{
+    border-bottom:1px solid rgba(255,255,255,.2);
+}
+
+
+.accordion-button::after{
+    background-image: url('white-arrow-down.png');
+}
+
+.accordion-button:not(.collapsed)::after{
+    background-image: url('white-arrow-down.png');
+}
+
+.bnb{
+    border-top:1px solid rgba(255,255,255,.2);
+    
+}
+
+
+.llk{
+    color: rgba(255, 255, 255, .6);
+}
+
+.uuu{
+    border-right: 3px solid #2777c6;
+    padding-right: 4rem;
+    margin-right: 4rem;
+}
+
+.uuuu{
+    border-bottom: 2px solid #2777c6;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+}
+
+
+@media screen and (min-width: 1200px) and (max-width: 1399px){
+   .sett{
+    width:390px;
+   } 
+}  
+
+@media screen and (min-width: 992px) and (max-width: 1199px){
+    .sett{
+     width:320px;
+    } 
+
+    .vrj{
+        margin-top: 110px;
+    }
+ }
+
+ @media screen and (min-width: 768px) and (max-width: 991px){
+
+    .vrj{
+        margin-top: 180px;
+    }
+ }
